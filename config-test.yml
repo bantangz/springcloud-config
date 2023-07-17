@@ -1,4 +1,2 @@
-logging:
-  level:
-    # feign日志以什么级别监控哪个接口
-    com.duing.springcloud.service.PaymentFeignService: debug
+config:
+  info: "config-test btyyds version-1"
